@@ -13,6 +13,9 @@ The data is processed and stored in **BigQuery** for analytics and visualization
 
 ---
 
+![image](https://github.com/user-attachments/assets/943dccda-3687-4c5e-9c45-5a3866627e2e)
+
+
 ### 🧪 Sample Output Format:
 
 | symbol | name     | current_price | market_cap   | market_cap_rank | fully_diluted_valuation | total_volume |
